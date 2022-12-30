@@ -11,6 +11,9 @@ I found my modified D4PG to have the same training performance as the base D4PG 
 
 I found my modified D4PG to be more robust to distributional shift in 1 of the 4 MDPs I tested on, but equal in the other 3. Therefore, this idea does not work as expected. 
 
+See the results in the /img/ folder.
+
+
 I will leave the following documentation below for future reference, if needed. 
 
 

@@ -64,8 +64,8 @@ python test_state_adversary.py --task Walker2d --algos "vpg trpo ppo pg_cmdp cpp
 
 ## Citation
 
-This work was bootstrapped from "Towards Safe Reinforcement Learning via Constraining Conditional Value-at-Risk". The addition of D4PG was my own contribution.
-
+**This work was bootstrapped from "Towards Safe Reinforcement Learning via Constraining Conditional Value-at-Risk". The addition of D4PG was my own contribution.
+**
 ```
 @inproceedings{
     ying2022towards,
